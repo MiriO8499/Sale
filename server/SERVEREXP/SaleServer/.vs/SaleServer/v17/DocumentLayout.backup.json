@@ -1,0 +1,1313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\rufflebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\rufflebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\giftsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\giftsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\donorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\donorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\iraffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\iraffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\winnwebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\winnwebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\donordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\donordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\idonordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\idonordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\rafflecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\rafflecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\idonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\idonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\igifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\igifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20250424120948_addedRuffel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaleServer\\Migrations\\20250424120948_addedRuffel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\salecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\salecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\rafflestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\rafflestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\winnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\winnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\iwinnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\iwinnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\iwinnerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\iwinnerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\winnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\winnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\gifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\gifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\saleserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\saleserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\middleware\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\giftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\giftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\igiftsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\igiftsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\bl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\bl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20231224134937_idnj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20231224134937_idnj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\GiftDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IgiftsDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Gifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\GiftDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107122858_tt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123551_tee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123449_t\u05D0\u05D0\u05D0\u05D0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\CartDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\DonorDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Middleware\\AuthenticationMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\SaleContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\OrderDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IorderDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\WinnerDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240103120525_donorname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IWinnerDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111727_tb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111554_t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240108150227_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240108150227_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240109130549_cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240109130549_cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240109202754_mm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240109202754_mm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240124155604_chek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240124155604_chek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240124171900_tttoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240124171900_tttoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240124170354_tttuytujrfuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240124170354_tttuytujrfuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240124170633_tttuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240124170633_tttuy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20240124171423_tttu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20240124171423_tttu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|c:\\users\\this user\\desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\serverexp\\saleserver\\saleserver\\migrations\\20250423180915_ssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4331F653-39DB-46D4-BC56-158D0A7C2BBB}|SaleServer\\SaleServer.csproj|solutionrelative:saleserver\\migrations\\20250423180915_ssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RuffleBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\RuffleBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\RuffleBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\RuffleBL.cs*",
+              "RelativeToolTip": "SaleServer\\BL\\RuffleBL.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:03:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iraffle.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Iraffle.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\Iraffle.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Iraffle.cs*",
+              "RelativeToolTip": "SaleServer\\BL\\Iraffle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:46:13.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaffleController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\RaffleController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\RaffleController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\RaffleController.cs*",
+              "RelativeToolTip": "SaleServer\\Controllers\\RaffleController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:31:07.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "donorBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\donorBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\donorBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\donorBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\donorBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonorDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\DonorDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\DonorDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\DonorDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\DonorDal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwEQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdonorDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IdonorDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\IdonorDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IdonorDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\IdonorDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\UserBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\UserBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\UserBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\UserBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinnweBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\WinnweBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\WinnweBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\WinnweBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\WinnweBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "giftsBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\giftsBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\giftsBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\giftsBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\giftsBL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Idonor.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Idonor.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\Idonor.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Idonor.cs",
+              "RelativeToolTip": "SaleServer\\BL\\Idonor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\DonorController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\DonorController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GiftsController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\GiftsController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\GiftsController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\GiftsController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\GiftsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Igifts.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Igifts.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\Igifts.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\Igifts.cs",
+              "RelativeToolTip": "SaleServer\\BL\\Igifts.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250424120948_addedRuffel.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20250424120948_addedRuffel.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20250424120948_addedRuffel.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20250424120948_addedRuffel.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20250424120948_addedRuffel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:09:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RaffleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\RaffleStatus.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\RaffleStatus.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\RaffleStatus.cs",
+              "RelativeToolTip": "SaleServer\\Models\\RaffleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:11:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WinnerDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\WinnerDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\WinnerDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\WinnerDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\WinnerDal.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WinnerController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\WinnerController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\WinnerController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\WinnerController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\WinnerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Order.cs",
+              "RelativeToolTip": "SaleServer\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\User.cs",
+              "RelativeToolTip": "SaleServer\\Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Gifts.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Gifts.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\Gifts.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Gifts.cs",
+              "RelativeToolTip": "SaleServer\\Models\\Gifts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IWinnerBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IWinnerBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\IWinnerBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IWinnerBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\IWinnerBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaleContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\SaleContext.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\SaleContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\SaleContext.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\SaleContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Donor.cs",
+              "RelativeToolTip": "SaleServer\\Models\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWinnerDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IWinnerDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\IWinnerDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IWinnerDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\IWinnerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Program.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Program.cs",
+              "RelativeToolTip": "SaleServer\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250423180915_ssss.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20250423180915_ssss.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20250423180915_ssss.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20250423180915_ssss.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20250423180915_ssss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:09:15.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Startup.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Startup.cs",
+              "RelativeToolTip": "SaleServer\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SaleServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IorderBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IorderBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\IorderBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IorderBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\IorderBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\OrderBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\OrderBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\OrderBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\OrderBL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBQwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaleServer.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\SaleServer.csproj",
+              "RelativeDocumentMoniker": "SaleServer\\SaleServer.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\SaleServer.csproj",
+              "RelativeToolTip": "SaleServer\\SaleServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T18:04:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\appsettings.json",
+              "RelativeDocumentMoniker": "SaleServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\appsettings.json",
+              "RelativeToolTip": "SaleServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:04:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IorderDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IorderDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\IorderDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IorderDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\IorderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\OrderDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\OrderDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\OrderDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\OrderDal.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwNkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GiftDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\GiftDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\GiftDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\GiftDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\GiftDal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwDwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IgiftsDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IgiftsDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\IgiftsDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IgiftsDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\IgiftsDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SecurityRequirementsOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\SecurityRequirementsOperationFilter.cs",
+              "RelativeDocumentMoniker": "SaleServer\\SecurityRequirementsOperationFilter.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\SecurityRequirementsOperationFilter.cs",
+              "RelativeToolTip": "SaleServer\\SecurityRequirementsOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Mapper.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Mapper.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Mapper.cs",
+              "RelativeToolTip": "SaleServer\\Mapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Login.cs",
+              "RelativeToolTip": "SaleServer\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "SaleServer\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DTO\\OrderDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "SaleServer\\DTO\\OrderDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IuserDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IuserDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\IuserDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IuserDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\IuserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\UserDal.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DAL\\UserDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\UserDal.cs",
+              "RelativeToolTip": "SaleServer\\DAL\\UserDal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DTO\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "SaleServer\\DTO\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DonorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\DonorDTO.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DTO\\DonorDTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\DonorDTO.cs",
+              "RelativeToolTip": "SaleServer\\DTO\\DonorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GiftDTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\GiftDTO.cs",
+              "RelativeDocumentMoniker": "SaleServer\\DTO\\GiftDTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\GiftDTO.cs",
+              "RelativeToolTip": "SaleServer\\DTO\\GiftDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IuserBL.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IuserBL.cs",
+              "RelativeDocumentMoniker": "SaleServer\\BL\\IuserBL.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\BL\\IuserBL.cs",
+              "RelativeToolTip": "SaleServer\\BL\\IuserBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240124171900_tttoo.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124171900_tttoo.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240124171900_tttoo.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124171900_tttoo.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240124171900_tttoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240124170354_tttuytujrfuy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124170354_tttuytujrfuy.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240124170354_tttuytujrfuy.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124170354_tttuytujrfuy.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240124170354_tttuytujrfuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240124170633_tttuy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124170633_tttuy.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240124170633_tttuy.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124170633_tttuy.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240124170633_tttuy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240124171423_tttu.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124171423_tttu.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240124171423_tttu.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124171423_tttu.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240124171423_tttu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240124155604_chek.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124155604_chek.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240124155604_chek.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240124155604_chek.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240124155604_chek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\User.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240109210411_\u05D1\u05E9\u05D3\u05DC\u05E9\u05D2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20231224134937_IDnj.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231224134937_IDnj.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20231224134937_IDnj.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231224134937_IDnj.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20231224134937_IDnj.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAIBJwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Login.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240109202754_mm.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109202754_mm.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240109202754_mm.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109202754_mm.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240109202754_mm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240107122858_tt.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107122858_tt.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107122858_tt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240107123551_tee.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123551_tee.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123551_tee.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240109130549_cv.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109130549_cv.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240109130549_cv.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240109130549_cv.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240109130549_cv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GiftDTO.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\GiftDTO.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\GiftDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240108150227_c.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240108150227_c.cs",
+              "RelativeDocumentMoniker": "SaleServer\\Migrations\\20240108150227_c.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240108150227_c.cs",
+              "RelativeToolTip": "SaleServer\\Migrations\\20240108150227_c.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:04:30.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SaleServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SaleServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T18:04:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Gifts.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Gifts.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Gifts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IgiftsDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IgiftsDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IgiftsDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GiftDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\GiftDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\GiftDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240107123449_t\u05D0\u05D0\u05D0\u05D0.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123449_t\u05D0\u05D0\u05D0\u05D0.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240107123449_t\u05D0\u05D0\u05D0\u05D0.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\CartDTO.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DTO\\CartDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DonorDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\DonorDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\DonorDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Middleware\\AuthenticationMiddleware.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SaleContext.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\SaleContext.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\SaleContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\OrderDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\OrderDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Winner.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Winner.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Models\\Winner.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IorderDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IorderDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IorderDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "WinnerDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\WinnerDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\WinnerDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240103120525_donorname.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240103120525_donorname.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20240103120525_donorname.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IWinnerDal.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IWinnerDal.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\DAL\\IWinnerDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20231231111727_tb.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111727_tb.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111727_tb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20231231111554_t.cs",
+              "DocumentMoniker": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111554_t.cs",
+              "ToolTip": "F:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05E9\u05DC \u05E9\u05D9\u05E4\u05D9\\\u05E1\u05E8\u05D1\u05E8 \u05D4\u05D9\u05D5\u05DD\\SERVEREXP\\SaleServer\\SaleServer\\Migrations\\20231231111554_t.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T14:00:22.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
